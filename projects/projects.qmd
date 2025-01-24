@@ -1,0 +1,17 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects
+
+## Fetal Health Prediction
+- Developed machine learning models with 95% accuracy using XGBoost.
+- Deployed models on Azure Machine Learning Studio.
+
+## Health Insurance Data Analysis
+- Conducted statistical analyses and regression modeling to understand insurance costs.
+
+## Dashboards
+- **Marine Product Performance Dashboard**: Power BI dashboard for product analysis.
+- **Weather Data Tracking Dashboard**: Correlated experimental results with weather conditions.
