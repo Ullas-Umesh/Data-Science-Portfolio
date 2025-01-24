@@ -1,0 +1,11 @@
+---
+title: "Certifications"
+format: html
+---
+
+# Certifications
+
+- AZ-900 Azure Fundamentals
+- AI-900 Azure AI Fundamentals
+- Databricks Fundamentals
+- MongoDB Python Developer

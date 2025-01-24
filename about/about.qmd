@@ -1,0 +1,8 @@
+---
+title: "About Me"
+format: html
+---
+
+# About Me
+
+I am a Data Scientist currently pursuing an MSc in Data Science at Nottingham Trent University. My work spans analyzing product performance, developing interactive dashboards, and building data pipelines using tools like Databricks and Azure. I am passionate about data-driven decision-making and creating impactful solutions.

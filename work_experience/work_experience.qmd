@@ -1,0 +1,17 @@
+---
+title: "Work Experience"
+format: html
+---
+
+# Work Experience
+
+## Data Scientist, AkzoNobel
+- Analyzing the performance of marine coatings and developing Power BI dashboards.
+- Building and maintaining data pipelines on Databricks integrated with Azure.
+
+## Data Analyst, Tata Consultancy Services
+- Conducted statistical analyses and built dashboards using Power BI.
+- Optimized data pipelines with Python scripts.
+
+## Implementation Engineer, Optculture
+- Debugged technical issues and managed email/SMS campaigns.
