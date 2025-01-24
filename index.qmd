@@ -1,9 +1,0 @@
----
-title: "Ullas Umesh Portfolio"
-author: "Ullas Umesh"
-format: html
----
-
-# Welcome to My Portfolio
-
-Hello! I'm Ullas Umesh, a data scientist with a background in mechanical engineering and expertise in Python, Power BI, and cloud computing. Explore my work and accomplishments below!
